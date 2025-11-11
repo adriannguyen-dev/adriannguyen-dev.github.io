@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 📱 Projects
-
 Here are some selected projects that best represent my work as an Android Engineer.
 
 ---
