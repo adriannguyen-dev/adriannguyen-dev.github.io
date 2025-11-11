@@ -1,0 +1,13 @@
+title: "Van Duy Nguyen (Adrian)"
+description: "Senior Android Engineer | Kotlin • Jetpack Compose • Clean Architecture"
+theme: minima
+
+# Optional: social links
+github_username: DuyNguyenGit
+linkedin_username: adrian-duy-nguyen
+
+# For navigation links
+header_pages:
+  - index.md
+  - projects.md
+  - experience.md
