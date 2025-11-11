@@ -4,11 +4,36 @@ title: "Projects"
 permalink: /projects/
 ---
 
+# 📱 Projects
+
 Here are some selected projects that best represent my work as an Android Engineer.
 
 ---
 
-## 1. Banking App – Mobile Internet Banking (MIB)
+## 1. Subscription Optimization – Walmart Global Tech
+
+**Role:** Android Developer  
+**Team:** Subscriptions (Glass Android project)  
+**Stack:** Kotlin, Jetpack Compose, Clean Architecture, GraphQL (Apollo 3), Kotlin Flow, Coroutines, R2 Automation, Jenkins, Splunk, OpenObserve  
+
+**What I did:**
+
+- Built and optimized **customer-facing subscription flows**, including address selector, skip items, and delivery booking slots.
+- Integrated **GraphQL APIs** to improve data efficiency and simplify complex REST logic.
+- Refactored legacy fragments into **Jetpack Compose** for performance and maintainability.
+- Enhanced **test coverage** from ~13% to over 60% through structured R2 UI automation and Appium tests.
+- Improved observability by creating **Splunk and OpenObserve dashboards** for error tracking and regression monitoring.
+- Collaborated with backend, design, and QA to deliver reliable features across regions.
+
+**Impact:**
+
+- Reduced crash rates and regression issues in production builds.
+- Improved team release velocity and developer confidence with better CI/CD integration and quality gates.
+- Delivered a smoother, more resilient subscription experience for millions of Walmart users.
+
+---
+
+## 2. Banking App – Mobile Internet Banking (MIB)
 
 **Role:** Android Developer  
 **Stack:** Kotlin, Jetpack Compose, Clean Architecture, Coroutines, Dagger/Hilt, REST APIs, JUnit, Mockito, Automation Testing  
@@ -29,7 +54,7 @@ Here are some selected projects that best represent my work as an Android Engine
 
 ---
 
-## 2. Flip – Screen Sharing App (WebRTC POC)
+## 3. Flip – Screen Sharing App (WebRTC POC)
 
 **Role:** Android Engineer / Research & Development  
 **Stack:** Kotlin, MVVM, WebRTC, Coroutines, LiveData, JUnit, Espresso, CircleCI  
@@ -49,7 +74,7 @@ Here are some selected projects that best represent my work as an Android Engine
 
 ---
 
-## 3. Nail Salon Management App – VietNailPro (Side Project)
+## 4. Nail Salon Management App – VietNailPro (Side Project)
 
 **Role:** Founder / Solo Developer  
 **Stack:** Flutter (for cross-platform), Firebase (Firestore, Auth, Functions), Android Studio, GitHub  
@@ -68,7 +93,7 @@ Here are some selected projects that best represent my work as an Android Engine
 
 ---
 
-## 4. Ebook App from Scratch
+## 5. Ebook App from Scratch
 
 **Role:** Android Developer (collaborating with designers, clients, and product owner)  
 **Stack:** Java/Kotlin, MVP architecture, Android Views, Unit Tests, Automation  
