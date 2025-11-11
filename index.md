@@ -15,7 +15,7 @@ permalink: /
 
 👉 **[View my projects →](./projects)**  
 👉 **[See my experience timeline →](./experience)**  
-👉 **[Download résumé](https://github.com/user-attachments/files/23487921/Van.Duy.Nguyen-AndroidDeveloper-Resume.pdf)**
+👉 **[Download résumé →](https://github.com/user-attachments/files/23487921/Van.Duy.Nguyen-AndroidDeveloper-Resume.pdf)**
 
 ---
 
